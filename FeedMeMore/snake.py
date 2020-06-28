@@ -67,7 +67,7 @@ def welcome():
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_RETURN:
                     pygame.mixer.music.load('.Musics/JaricoLandscapeNCS.mp3')
-                    pygame.mixer.music.play()
+                    pygame.mixer.music.play(-1)
                     gameloop()
                 if event.key == pygame.K_ESCAPE:
                     exit_game = True

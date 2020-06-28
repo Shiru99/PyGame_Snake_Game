@@ -7,3 +7,6 @@ y=${x%/*}
 # cd /home/shiru/🃏\ Start/Python/PyGames/FeedMeMore && python3 /home/shiru/🃏\ Start/Python/PyGames/FeedMeMore/snake.py
 cd "$y"
 python3 "$y/snake.py"
+
+
+#  /home/shiru/🃏\ Start/Python/PyGames/FeedMeMore/game.sh
