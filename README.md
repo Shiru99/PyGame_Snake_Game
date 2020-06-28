@@ -8,6 +8,15 @@
   
   > $ sudo apt-get install python-pygame
 
+## To create shortcut :
+
+  settings -> Keyboard Shortcuts -> click at bottom on '+'
+  
+  command : /home/user/FeedMeMore/game.sh        (path of game.sh file)
+ 
+## Have a fun :) 
+
+  Game Video.
 
 
 
