@@ -14,6 +14,7 @@ pygame.init()
 white = (255, 255, 255)
 red = (255, 0, 0)
 black = (0, 0, 0)
+green = (1,1,1)
 
 
 # Creating window
@@ -43,10 +44,13 @@ def text_screen(text, color, x, y):
 
 
 def plot_snake(gameWindow, color, snk_list, snake_size):
+    col1 = white
+    if color == green:
+        col1 = red
     len = 0 
     for x,y in snk_list:
         if len%2== 0 : 
-            pygame.draw.circle(gameWindow, white, [x, y], int(snake_size/2)) 
+            pygame.draw.circle(gameWindow, col1, [x, y], int(snake_size/2)) 
             len+=1
         else : 
             pygame.draw.circle(gameWindow, black, [x, y], int(snake_size/2)) 
@@ -182,6 +186,8 @@ def gameloop():
                 game_over = True
                 pygame.mixer.music.load('.Musics/dead.mp3')
                 pygame.mixer.music.play()
+                plot_snake(gameWindow, green, snk_list, snake_size)
+                pygame.display.update()
                 time.sleep(1)
                 pygame.mixer.music.load('.Musics/DeathNote.mp3')
                 pygame.mixer.music.play(-1)
