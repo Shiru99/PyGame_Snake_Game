@@ -7,6 +7,14 @@
   pygame
   
   > $ sudo apt-get install python-pygame
+  
+  ## To run :
+
+  > $ bash /home/user/FeedMeMore/snake.py
+  or
+  > $ bash /home/user/FeedMeMore/game.sh 
+  
+  
 
 ## To create shortcut :
 
