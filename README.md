@@ -1,6 +1,6 @@
-# PyGames
+# Snake Game (Feed Me More)
 
-## Requirments :
+## Requirements :
 
   python 3
   
