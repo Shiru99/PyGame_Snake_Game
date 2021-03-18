@@ -31,9 +31,8 @@
   
  Images :
   
-  <img src="https://drive.google.com/uc?export=view&id=10zg7fPNyuIUH9A9gHbmwzlywJtBnebBi" width="450" height="300">      <img src="https://drive.google.com/uc?export=view&id=1xULt58wlxKP3eTxOMLReBHguphjks7Ns" width="450" height="300">
-  
-  <img src="https://drive.google.com/uc?export=view&id=1O_DL4dn3hkWl56ehgOoCf1uTrqUyABqE" width="450" height="300">      <img src="https://drive.google.com/uc?export=view&id=1yyv4llhSmOjvcBFnUxfWNzZpvkdXvZki" width="450" height="300">
+  <img src="https://drive.google.com/uc?export=view&id=10zg7fPNyuIUH9A9gHbmwzlywJtBnebBi" width="360" height="240">      <img src="https://drive.google.com/uc?export=view&id=1xULt58wlxKP3eTxOMLReBHguphjks7Ns" width="360" height="240">
+  <img src="https://drive.google.com/uc?export=view&id=1O_DL4dn3hkWl56ehgOoCf1uTrqUyABqE" width="360" height="240">      <img src="https://drive.google.com/uc?export=view&id=1yyv4llhSmOjvcBFnUxfWNzZpvkdXvZki" width="360" height="240">
 
 
 ----
