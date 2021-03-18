@@ -21,14 +21,15 @@
   settings -> Keyboard Shortcuts -> click at bottom on '+'
   
   command : /home/user/FeedMeMore/game.sh        (path of game.sh file)
+  
+----
  
-## Have a fun :) 
+# Demo  (   Have a fun :)  )
 
-  Game Video :
+[![Python Snake game ](https://img.youtube.com/vi/oCN6UcdejuQ/0.jpg)](https://www.youtube.com/watch?v=oCN6UcdejuQ)
+
   
-   Youtube link : https://youtu.be/K_m8ph-LHV0
-  
-  Images :
+ Images :
   
   <img src="https://drive.google.com/uc?export=view&id=10zg7fPNyuIUH9A9gHbmwzlywJtBnebBi" width="450" height="300">      <img src="https://drive.google.com/uc?export=view&id=1xULt58wlxKP3eTxOMLReBHguphjks7Ns" width="450" height="300">
   
